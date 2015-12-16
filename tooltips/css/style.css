@@ -1,0 +1,13 @@
+.tooltip{
+  color: green;
+  position: relative;
+  display: inline-block;
+}
+.tooltipText{
+  display: block;
+  background: white;
+  color: black;
+  border: solid black 1px;
+  position: absolute;
+  z-index: 1;
+}
