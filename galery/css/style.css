@@ -1,0 +1,27 @@
+.galery ul{
+  list-style: none;
+}
+.galery li{
+  display: inline-block;
+}
+.fullscreen{
+  position: fixed;
+  width: 80%;
+  height: 80%;
+  left: 10%;
+  top: 10%;
+  z-index: 1;
+  background-color: beige;
+
+}
+.fullscreen .close{
+  position: fixed;
+  top: 10%;
+  left: 10%;
+}
+.fullscreen img{
+  display: block;
+  margin: auto;
+  width: 100%;
+  height: 100%;
+}
