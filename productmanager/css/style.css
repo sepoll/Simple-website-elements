@@ -1,0 +1,10 @@
+table, td{
+  border: 1px solid black;
+}
+h1 {
+  display: inline-block;
+  font-size: 12px;
+}
+table .finish{
+  text-decoration: line-through;
+}
